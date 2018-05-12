@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6360
     wikipedia: http://en.wikipedia.org/wiki/Edward_Singleton_Holden
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23562#Studies-in-Central-American-Picture-WritingGovernment-Printing-Office-Washington-1881-pages-2_
 gutenberg_bookshelf: Native America
 gutenberg_issued: '2007-11-20'
 gutenberg_type: Text
